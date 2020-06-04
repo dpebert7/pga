@@ -1,6 +1,6 @@
 #Read Acquire log file
-with open('C:\\4. Github\\PGA\\log1.txt') as f:
-    lines = f.read().splitlines()
+#with open('C:\\4. Github\\PGA\\log1.txt') as f:
+#    lines = f.read().splitlines()
 
 def pga(lines):
     """
