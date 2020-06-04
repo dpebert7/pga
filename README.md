@@ -8,9 +8,17 @@
 ```python
 from pga import pga
 sLog = """
+  Lobby  Options  Global Chat  Game Chat
+Player	L	T	A	F	W	C	I	Cash	Net
+scarbinger		2	7				6	15300	29600
+TacoBobby		6	1	11			9	14400	39100
+VeryStableGenius		10					9	4500	25100
 ...
 ...
 ...
+scarbinger purchased nothing.
+scarbinger ended the game.
+Game over.
 """
 pga(sLog.splitlines())
 ```
