@@ -80,6 +80,6 @@ def pga(lines):
     print(merging_tiles)
     print()
 
-pga(lines)
+#pga(lines)
     
 
