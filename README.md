@@ -1,8 +1,7 @@
 ## pga
 *Postgame analysis for Acquire board game*
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpebert7/pga/master?filepath=Main.ipynb)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpebert7/pga/master?filepath=main.ipynb)
 
 ### Example
 ```python
