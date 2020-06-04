@@ -1,5 +1,5 @@
 ## pga
-*An easy python formatter TM1 TurboIntegrator processes*
+*Postgame analysis for Acquire board game*
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpebert7/pga/master?filepath=Main.ipynb)
 
