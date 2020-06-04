@@ -8,7 +8,9 @@
 ```python
 from pga import pga
 sLog = """
-
+...
+...
+...
 """
 pga(sLog.splitlines())
 ```
