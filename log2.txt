@@ -1,0 +1,422 @@
+
+8B				
+9C	10C	11C	
+  Lobby  Options  Global Chat  Game Chat
+Player	L	T	A	F	W	C	I	Cash	Net
+VeryStableGenius	25	25			25			93200	197200
+Available	0	0	25	25	0	25	25
+Chain Size	15	43	-	-	30	-	-
+Price ($00)	7	10	-	-	9	-	-     
+Game #3: Singles, Completed
+VeryStableGenius drew position tile 5E.
+VeryStableGenius started the game.
+You drew tile 8E.
+You drew tile 12E.
+You drew tile 7B.
+You drew tile 6I.
+You drew tile 2C.
+You drew tile 10E.
+VeryStableGenius
+VeryStableGenius played tile 12E.
+You drew tile 4E.
+VeryStableGenius
+VeryStableGenius played tile 6I.
+You drew tile 10I.
+VeryStableGenius
+VeryStableGenius played tile 2C.
+You drew tile 10H.
+VeryStableGenius
+VeryStableGenius played tile 7B.
+You drew tile 6B.
+VeryStableGenius
+VeryStableGenius played tile 10I.
+You drew tile 9F.
+VeryStableGenius
+VeryStableGenius played tile 10E.
+You drew tile 6C.
+VeryStableGenius
+VeryStableGenius played tile 8E.
+You drew tile 9E.
+VeryStableGenius
+VeryStableGenius played tile 9F.
+You drew tile 8D.
+VeryStableGenius
+VeryStableGenius played tile 8D.
+VeryStableGenius formed Tower.
+VeryStableGenius purchased 3 Tower.
+You drew tile 7D.
+VeryStableGenius
+VeryStableGenius played tile 6B.
+VeryStableGenius formed Continental.
+VeryStableGenius purchased 3 Tower.
+You drew tile 7C.
+VeryStableGenius
+VeryStableGenius played tile 6C.
+VeryStableGenius purchased 3 Tower.
+You drew tile 2D.
+VeryStableGenius
+VeryStableGenius played tile 4E.
+VeryStableGenius formed Worldwide.
+VeryStableGenius purchased 3 Tower.
+You drew tile 9A.
+VeryStableGenius
+VeryStableGenius played tile 9A.
+VeryStableGenius purchased 3 Tower.
+You drew tile 7I.
+VeryStableGenius
+VeryStableGenius played tile 10H.
+VeryStableGenius formed Festival.
+VeryStableGenius purchased 3 Tower.
+You drew tile 12G.
+VeryStableGenius
+VeryStableGenius played tile 12G.
+VeryStableGenius purchased 3 Tower.
+You drew tile 11D.
+VeryStableGenius
+VeryStableGenius played tile 7D.
+VeryStableGenius purchased 3 Tower.
+You drew tile 5D.
+VeryStableGenius
+VeryStableGenius played tile 7C.
+VeryStableGenius merged Tower and Continental.
+VeryStableGenius selected Tower as merger survivor.
+VeryStableGenius received a $7500 Continental bonus.
+VeryStableGenius traded 0 and sold 1 Continental shares.
+VeryStableGenius purchased 3 Worldwide.
+You drew tile 2I.
+VeryStableGenius
+VeryStableGenius played tile 2I.
+VeryStableGenius purchased 3 Worldwide.
+You drew tile 1G.
+VeryStableGenius
+VeryStableGenius played tile 1G.
+VeryStableGenius purchased 3 Worldwide.
+You drew tile 10G.
+VeryStableGenius
+VeryStableGenius played tile 10G.
+VeryStableGenius purchased 3 Worldwide.
+You drew tile 5G.
+VeryStableGenius
+VeryStableGenius played tile 5G.
+VeryStableGenius purchased 3 Worldwide.
+You drew tile 10F.
+VeryStableGenius
+VeryStableGenius played tile 5D.
+VeryStableGenius purchased 3 Festival.
+You drew tile 3E.
+VeryStableGenius
+VeryStableGenius played tile 7I.
+VeryStableGenius formed American.
+VeryStableGenius purchased 3 Festival.
+You drew tile 7F.
+VeryStableGenius
+VeryStableGenius played tile 7F.
+VeryStableGenius purchased 3 Festival.
+You drew tile 9D.
+VeryStableGenius
+VeryStableGenius played tile 2D.
+VeryStableGenius formed Continental.
+VeryStableGenius purchased 2 Festival.
+You drew tile 5B.
+VeryStableGenius
+VeryStableGenius played tile 10F.
+VeryStableGenius could not afford any shares.
+You drew tile 11E.
+VeryStableGenius
+VeryStableGenius played tile 9E.
+VeryStableGenius merged Tower and Festival.
+VeryStableGenius received a $10500 Festival bonus.
+VeryStableGenius traded 0 and sold 12 Festival shares.
+VeryStableGenius purchased 3 Worldwide.
+You drew tile 4D.
+VeryStableGenius
+VeryStableGenius played tile 3E.
+VeryStableGenius purchased 3 Worldwide.
+You drew tile 7G.
+VeryStableGenius
+VeryStableGenius played tile 4D.
+VeryStableGenius purchased 3 American.
+You drew tile 4I.
+VeryStableGenius
+VeryStableGenius played tile 7G.
+VeryStableGenius formed Imperial.
+VeryStableGenius purchased 3 Imperial.
+You drew tile 9G.
+VeryStableGenius
+VeryStableGenius played tile 4I.
+VeryStableGenius purchased 3 American.
+You drew tile 3C.
+VeryStableGenius
+VeryStableGenius played tile 11D.
+VeryStableGenius purchased 3 Continental.
+You drew tile 3B.
+VeryStableGenius
+VeryStableGenius played tile 3B.
+VeryStableGenius purchased 3 Continental.
+You drew tile 8H.
+VeryStableGenius
+VeryStableGenius played tile 8H.
+VeryStableGenius purchased 3 Continental.
+You drew tile 5F.
+VeryStableGenius
+VeryStableGenius played tile 9D.
+VeryStableGenius purchased 3 Continental.
+You drew tile 6G.
+VeryStableGenius
+VeryStableGenius played tile 3C.
+VeryStableGenius purchased 3 Imperial.
+You drew tile 2H.
+VeryStableGenius
+VeryStableGenius played tile 2H.
+VeryStableGenius formed Luxor.
+VeryStableGenius purchased 3 Imperial.
+You drew tile 1A.
+VeryStableGenius
+VeryStableGenius played tile 1A.
+VeryStableGenius purchased 3 Imperial.
+You drew tile 8I.
+VeryStableGenius
+VeryStableGenius played tile 5B.
+VeryStableGenius purchased 3 Imperial.
+You drew tile 6E.
+VeryStableGenius
+VeryStableGenius played tile 6E.
+VeryStableGenius purchased 3 Imperial.
+You drew tile 2G.
+VeryStableGenius
+VeryStableGenius played tile 6G.
+VeryStableGenius purchased 3 American.
+You drew tile 3D.
+VeryStableGenius
+VeryStableGenius played tile 9G.
+VeryStableGenius purchased 3 American.
+You drew tile 1D.
+VeryStableGenius
+VeryStableGenius played tile 8I.
+VeryStableGenius purchased 3 Luxor.
+You drew tile 11I.
+VeryStableGenius
+VeryStableGenius played tile 5F.
+VeryStableGenius merged Worldwide and Imperial.
+VeryStableGenius received a $9000 Imperial bonus.
+VeryStableGenius traded 0 and sold 19 Imperial shares.
+VeryStableGenius purchased 3 Luxor.
+You drew tile 10D.
+VeryStableGenius
+VeryStableGenius played tile 10D.
+VeryStableGenius purchased 1 Luxor and 2 Continental.
+You drew tile 1F.
+VeryStableGenius
+VeryStableGenius played tile 1F.
+VeryStableGenius formed Imperial.
+VeryStableGenius purchased 1 Luxor and 2 Continental.
+You drew tile 11H.
+VeryStableGenius
+VeryStableGenius played tile 11E.
+VeryStableGenius purchased 1 Luxor and 2 Continental.
+You drew tile 8F.
+VeryStableGenius replaced dead tile 8F.
+You drew tile 12C.
+VeryStableGenius
+VeryStableGenius played tile 12C.
+VeryStableGenius purchased 1 Luxor and 2 Continental.
+You drew tile 1C.
+VeryStableGenius
+VeryStableGenius played tile 11I.
+VeryStableGenius purchased 1 Luxor and 2 Continental.
+You drew tile 8G.
+VeryStableGenius replaced dead tile 8G.
+You drew tile 9H.
+VeryStableGenius
+VeryStableGenius played tile 11H.
+VeryStableGenius purchased 1 Luxor and 2 Continental.
+You drew tile 8B.
+VeryStableGenius
+VeryStableGenius played tile 1C.
+VeryStableGenius purchased 3 Luxor.
+You drew tile 3F.
+VeryStableGenius
+VeryStableGenius played tile 1D.
+VeryStableGenius purchased 3 Luxor.
+You drew tile 6F.
+VeryStableGenius
+VeryStableGenius played tile 6F.
+VeryStableGenius purchased 3 Luxor.
+You drew tile 3I.
+VeryStableGenius
+VeryStableGenius played tile 3I.
+VeryStableGenius purchased 3 American.
+You drew tile 8C.
+VeryStableGenius
+VeryStableGenius played tile 3F.
+VeryStableGenius purchased 3 Luxor.
+You drew tile 11G.
+VeryStableGenius
+VeryStableGenius played tile 2G.
+VeryStableGenius merged Luxor and Imperial.
+VeryStableGenius received a $6000 Imperial bonus.
+VeryStableGenius traded 0 and sold 0 Imperial shares.
+VeryStableGenius purchased 2 American and 1 Worldwide.
+You drew tile 6A.
+VeryStableGenius
+VeryStableGenius played tile 6A.
+VeryStableGenius purchased 2 American and 1 Worldwide.
+You drew tile 2A.
+VeryStableGenius
+VeryStableGenius played tile 2A.
+VeryStableGenius formed Imperial.
+VeryStableGenius purchased 2 American and 1 Worldwide.
+You drew tile 2E.
+VeryStableGenius
+VeryStableGenius played tile 2E.
+VeryStableGenius merged Worldwide and Continental.
+VeryStableGenius received a $12000 Continental bonus.
+VeryStableGenius traded 0 and sold 25 Continental shares.
+VeryStableGenius purchased 3 American.
+You drew tile 11B.
+VeryStableGenius
+VeryStableGenius played tile 11B.
+VeryStableGenius purchased 3 Imperial.
+You drew tile 5I.
+VeryStableGenius
+VeryStableGenius played tile 5I.
+VeryStableGenius merged Luxor and American.
+VeryStableGenius received a $7500 American bonus.
+VeryStableGenius traded 0 and sold 25 American shares.
+VeryStableGenius purchased 3 Imperial.
+You drew tile 3A.
+VeryStableGenius replaced dead tile 9H.
+You drew tile 12A.
+VeryStableGenius
+VeryStableGenius played tile 11G.
+VeryStableGenius purchased 3 Imperial.
+You drew tile 11F.
+VeryStableGenius
+VeryStableGenius played tile 12A.
+VeryStableGenius purchased 3 Imperial.
+You drew tile 2B.
+VeryStableGenius
+VeryStableGenius played tile 11F.
+VeryStableGenius purchased 3 Imperial.
+You drew tile 4A.
+VeryStableGenius
+VeryStableGenius played tile 4A.
+VeryStableGenius purchased 3 Imperial.
+You drew tile 8A.
+VeryStableGenius
+VeryStableGenius played tile 2B.
+VeryStableGenius merged Worldwide and Imperial.
+VeryStableGenius received a $6000 Imperial bonus.
+VeryStableGenius traded 0 and sold 0 Imperial shares.
+VeryStableGenius purchased nothing.
+You drew tile 11A.
+VeryStableGenius
+VeryStableGenius played tile 11A.
+VeryStableGenius formed Imperial.
+VeryStableGenius purchased 3 Imperial.
+You drew tile 12D.
+VeryStableGenius
+VeryStableGenius played tile 8A.
+VeryStableGenius formed Continental.
+VeryStableGenius purchased 3 Continental.
+You drew tile 12H.
+VeryStableGenius
+VeryStableGenius played tile 3A.
+VeryStableGenius purchased 2 Continental and 1 Imperial.
+You drew tile 4C.
+VeryStableGenius
+VeryStableGenius played tile 3D.
+VeryStableGenius purchased 3 Continental.
+You drew tile 3H.
+VeryStableGenius
+VeryStableGenius played tile 4C.
+VeryStableGenius purchased 3 Continental.
+You drew tile 10B.
+VeryStableGenius
+VeryStableGenius played tile 3H.
+VeryStableGenius purchased 3 Continental.
+You drew tile 12F.
+VeryStableGenius
+VeryStableGenius played tile 12H.
+VeryStableGenius purchased 3 Continental.
+You drew tile 5H.
+VeryStableGenius replaced dead tile 5H.
+You drew tile 1E.
+VeryStableGenius replaced dead tile 1E.
+You drew tile 2F.
+VeryStableGenius replaced dead tile 2F.
+You drew tile 9C.
+VeryStableGenius
+VeryStableGenius played tile 12F.
+VeryStableGenius purchased 3 Continental.
+You drew tile 4F.
+VeryStableGenius
+VeryStableGenius played tile 4F.
+VeryStableGenius purchased 3 Continental.
+You drew tile 11C.
+VeryStableGenius
+VeryStableGenius played tile 8C.
+VeryStableGenius purchased 1 Continental.
+You drew tile 7H.
+VeryStableGenius replaced dead tile 7H.
+You drew tile 6D.
+VeryStableGenius replaced dead tile 6D.
+You drew tile 12B.
+VeryStableGenius
+VeryStableGenius played tile 12B.
+You drew tile 3G.
+VeryStableGenius replaced dead tile 3G.
+You drew tile 10A.
+VeryStableGenius
+VeryStableGenius played tile 10A.
+VeryStableGenius merged Continental and Imperial.
+VeryStableGenius received a $6000 Continental bonus.
+VeryStableGenius traded 0 and sold 25 Continental shares.
+You drew tile 4B.
+VeryStableGenius replaced dead tile 4B.
+You drew tile 5C.
+VeryStableGenius replaced dead tile 5C.
+You drew tile 4G.
+VeryStableGenius
+VeryStableGenius played tile 10B.
+You drew tile 1H.
+VeryStableGenius
+VeryStableGenius played tile 1H.
+You drew tile 5A.
+VeryStableGenius replaced dead tile 5A.
+You drew tile 1B.
+VeryStableGenius
+VeryStableGenius played tile 1B.
+You drew tile 1I.
+VeryStableGenius
+VeryStableGenius played tile 4G.
+You drew tile 4H.
+VeryStableGenius replaced dead tile 4H.
+You drew tile 12I.
+VeryStableGenius
+VeryStableGenius played tile 1I.
+You drew tile 6H.
+VeryStableGenius replaced dead tile 6H.
+You drew tile 9B.
+VeryStableGenius
+VeryStableGenius played tile 9B.
+You drew tile 7E.
+VeryStableGenius replaced dead tile 7E.
+You drew tile 7A.
+VeryStableGenius
+VeryStableGenius played tile 12I.
+You drew tile 10C.
+VeryStableGenius
+VeryStableGenius played tile 7A.
+VeryStableGenius merged Tower and Imperial.
+VeryStableGenius received a $12000 Imperial bonus.
+VeryStableGenius traded 0 and sold 25 Imperial shares.
+VeryStableGenius purchased nothing.
+You drew tile 9I.
+VeryStableGenius drew the last tile from the tile bag.
+VeryStableGenius replaced dead tile 9I.
+VeryStableGenius
+VeryStableGenius played tile 12D.
+VeryStableGenius purchased nothing.
+VeryStableGenius ended the game.
+Game over.

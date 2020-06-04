@@ -1,0 +1,347 @@
+
+11B	12B
+12D
+10E		12E
+7G			10G		12G
+4I								
+  Lobby  Options  Global Chat  Game Chat
+Player	L	T	A	F	W	C	I	Cash	Net
+scarbinger		2	7				6	15300	29600
+TacoBobby		6	1	11			9	14400	39100
+VeryStableGenius		10					9	4500	25100
+afropop		7	10	1			1	2800	34400
+WilyWhippoorwill			7	13				5600	34500
+Available	25	0	0	0	25	25	0
+Chain Size	-	18	46	15	-	-	2
+Price ($00)	-	7	11	8	-	-	4     
+Game #6: Singles, Completed
+VeryStableGenius drew position tile 6G.
+scarbinger drew position tile 1B.
+TacoBobby drew position tile 5A.
+WilyWhippoorwill drew position tile 12C.
+afropop drew position tile 8E.
+VeryStableGenius started the game.
+You drew tile 10B.
+You drew tile 3F.
+You drew tile 3I.
+You drew tile 4G.
+You drew tile 6A.
+You drew tile 11C.
+scarbinger
+scarbinger played tile 5E.
+TacoBobby
+TacoBobby played tile 1E.
+VeryStableGenius
+VeryStableGenius played tile 6A.
+VeryStableGenius formed Continental.
+VeryStableGenius purchased 3 Continental.
+You drew tile 6D.
+afropop
+afropop played tile 5F.
+afropop formed American.
+afropop purchased 3 American.
+WilyWhippoorwill
+WilyWhippoorwill played tile 2E.
+WilyWhippoorwill formed Festival.
+WilyWhippoorwill purchased 3 Festival.
+scarbinger
+scarbinger played tile 12I.
+scarbinger purchased 3 American.
+TacoBobby
+TacoBobby played tile 9I.
+TacoBobby purchased 3 Festival.
+VeryStableGenius
+VeryStableGenius played tile 11C.
+VeryStableGenius formed Tower.
+VeryStableGenius purchased 3 Tower.
+You drew tile 11B.
+afropop
+afropop played tile 2H.
+afropop purchased 3 American.
+WilyWhippoorwill
+WilyWhippoorwill played tile 10F.
+WilyWhippoorwill purchased 3 Festival.
+scarbinger
+scarbinger played tile 2G.
+scarbinger formed Luxor.
+scarbinger purchased 3 Luxor.
+TacoBobby
+TacoBobby played tile 8I.
+TacoBobby formed Imperial.
+TacoBobby purchased 3 Imperial.
+VeryStableGenius
+VeryStableGenius played tile 10B.
+VeryStableGenius purchased 3 Tower.
+You drew tile 4A.
+afropop
+afropop played tile 9F.
+afropop formed Worldwide.
+afropop purchased 1 Luxor and 2 Worldwide.
+WilyWhippoorwill
+WilyWhippoorwill played tile 11F.
+WilyWhippoorwill purchased 2 Luxor and 1 Worldwide.
+scarbinger
+scarbinger played tile 11D.
+scarbinger purchased 1 Tower and 2 Worldwide.
+TacoBobby
+TacoBobby played tile 1D.
+TacoBobby purchased 2 Tower.
+VeryStableGenius
+VeryStableGenius played tile 4A.
+VeryStableGenius purchased 3 Worldwide.
+You drew tile 10H.
+afropop
+afropop played tile 10D.
+afropop purchased 2 Luxor and 1 Worldwide.
+WilyWhippoorwill
+WilyWhippoorwill played tile 2A.
+WilyWhippoorwill purchased 3 Worldwide.
+scarbinger
+scarbinger played tile 6F.
+scarbinger purchased 1 Tower and 2 Worldwide.
+TacoBobby
+TacoBobby played tile 2C.
+TacoBobby purchased 3 Luxor.
+VeryStableGenius
+VeryStableGenius played tile 10H.
+VeryStableGenius purchased 3 Worldwide.
+You drew tile 4H.
+afropop
+afropop played tile 5I.
+afropop purchased 1 Luxor and 2 Worldwide.
+WilyWhippoorwill
+WilyWhippoorwill played tile 12A.
+WilyWhippoorwill purchased 3 Worldwide.
+scarbinger
+scarbinger played tile 9A.
+scarbinger purchased 1 Luxor and 2 Worldwide.
+TacoBobby
+TacoBobby played tile 9C.
+TacoBobby purchased 3 Luxor.
+VeryStableGenius
+VeryStableGenius played tile 3I.
+VeryStableGenius purchased 1 Imperial.
+You drew tile 7B.
+afropop
+afropop played tile 12F.
+afropop purchased 3 Tower.
+WilyWhippoorwill
+WilyWhippoorwill played tile 11E.
+WilyWhippoorwill merged Tower and Worldwide.
+WilyWhippoorwill selected Tower as merger survivor.
+WilyWhippoorwill received a $5000 Worldwide bonus.
+scarbinger received a $900 Worldwide bonus.
+VeryStableGenius received a $900 Worldwide bonus.
+afropop received a $900 Worldwide bonus.
+WilyWhippoorwill traded 0 and sold 0 Worldwide shares.
+scarbinger traded 0 and sold 0 Worldwide shares.
+VeryStableGenius traded 6 and sold 0 Worldwide shares.
+afropop traded 6 and sold 0 Worldwide shares.
+WilyWhippoorwill purchased 3 American.
+scarbinger
+scarbinger played tile 8A.
+scarbinger formed Worldwide.
+scarbinger purchased 3 Worldwide.
+TacoBobby
+TacoBobby played tile 7D.
+TacoBobby purchased 3 Luxor.
+VeryStableGenius
+VeryStableGenius played tile 7B.
+VeryStableGenius purchased 3 Imperial.
+You drew tile 10C.
+afropop
+afropop played tile 11G.
+afropop purchased 2 Luxor and 1 Tower.
+WilyWhippoorwill
+WilyWhippoorwill played tile 5G.
+WilyWhippoorwill purchased 3 Festival.
+scarbinger
+scarbinger played tile 3D.
+scarbinger purchased 3 Luxor.
+TacoBobby
+TacoBobby played tile 2I.
+TacoBobby purchased 2 Festival and 1 Continental.
+VeryStableGenius
+VeryStableGenius played tile 4G.
+VeryStableGenius purchased nothing.
+You drew tile 5B.
+afropop
+afropop played tile 5H.
+afropop purchased nothing.
+WilyWhippoorwill
+WilyWhippoorwill played tile 1C.
+WilyWhippoorwill purchased 3 American.
+scarbinger
+scarbinger played tile 8G.
+scarbinger purchased 1 Continental.
+TacoBobby
+TacoBobby played tile 5C.
+TacoBobby could not afford any shares.
+VeryStableGenius
+VeryStableGenius played tile 4H.
+VeryStableGenius purchased nothing.
+You drew tile 7A.
+afropop
+afropop played tile 3H.
+afropop merged Luxor and American.
+TacoBobby received a $4000 Luxor bonus.
+scarbinger received a $2000 Luxor bonus.
+afropop traded 6 and sold 0 Luxor shares.
+WilyWhippoorwill traded 2 and sold 0 Luxor shares.
+scarbinger traded 8 and sold 0 Luxor shares.
+TacoBobby traded 2 and sold 2 Luxor shares.
+afropop purchased nothing.
+WilyWhippoorwill
+WilyWhippoorwill played tile 6H.
+WilyWhippoorwill purchased 3 Worldwide.
+scarbinger
+scarbinger played tile 3B.
+scarbinger purchased 3 Continental.
+TacoBobby
+TacoBobby played tile 7E.
+TacoBobby formed Luxor.
+TacoBobby purchased 3 Continental.
+VeryStableGenius
+VeryStableGenius played tile 3F.
+VeryStableGenius purchased nothing.
+You drew tile 1G.
+afropop
+afropop played tile 7H.
+afropop purchased 1 Luxor.
+WilyWhippoorwill
+WilyWhippoorwill played tile 7F.
+WilyWhippoorwill merged Luxor and American.
+TacoBobby received a $3000 Luxor bonus.
+afropop received a $1500 Luxor bonus.
+TacoBobby traded 0 and sold 0 Luxor shares.
+afropop traded 0 and sold 0 Luxor shares.
+WilyWhippoorwill purchased 1 Worldwide.
+scarbinger
+scarbinger played tile 6E.
+scarbinger purchased 1 Continental.
+TacoBobby
+TacoBobby played tile 11I.
+TacoBobby formed Luxor.
+TacoBobby purchased 2 Continental and 1 Imperial.
+VeryStableGenius
+VeryStableGenius played tile 6D.
+VeryStableGenius purchased 2 Luxor.
+You drew tile 9H.
+afropop
+afropop played tile 8D.
+afropop purchased 3 Luxor.
+WilyWhippoorwill
+WilyWhippoorwill played tile 1A.
+WilyWhippoorwill could not afford any shares.
+scarbinger
+scarbinger played tile 4B.
+scarbinger could not afford any shares.
+TacoBobby
+TacoBobby played tile 2B.
+TacoBobby merged Festival and Continental.
+TacoBobby received a $7000 Continental bonus.
+scarbinger received a $3500 Continental bonus.
+TacoBobby traded 6 and sold 0 Continental shares.
+VeryStableGenius traded 0 and sold 4 Continental shares.
+scarbinger traded 0 and sold 5 Continental shares.
+TacoBobby purchased 1 Luxor and 2 Imperial.
+VeryStableGenius
+VeryStableGenius played tile 10C.
+VeryStableGenius purchased 3 Imperial.
+You drew tile 6I.
+afropop
+afropop played tile 7I.
+afropop merged American and Imperial.
+TacoBobby received a $3000 Imperial bonus.
+VeryStableGenius received a $3000 Imperial bonus.
+TacoBobby traded 0 and sold 4 Imperial shares.
+VeryStableGenius traded 0 and sold 7 Imperial shares.
+afropop purchased 3 Luxor.
+WilyWhippoorwill
+WilyWhippoorwill played tile 4E.
+WilyWhippoorwill could not afford any shares.
+WilyWhippoorwill replaced dead tile 8F.
+WilyWhippoorwill replaced dead tile 9E.
+WilyWhippoorwill replaced dead tile 9D.
+scarbinger
+scarbinger played tile 8H.
+scarbinger purchased 3 Worldwide.
+TacoBobby
+TacoBobby played tile 11A.
+TacoBobby formed Imperial.
+TacoBobby purchased 1 Luxor and 2 Festival.
+VeryStableGenius
+VeryStableGenius played tile 1G.
+VeryStableGenius purchased 3 Imperial.
+You drew tile 8C.
+VeryStableGenius replaced dead tile 8C.
+You drew tile 7C.
+afropop
+afropop played tile 3G.
+afropop purchased 1 Luxor.
+afropop replaced dead tile 2F.
+WilyWhippoorwill
+WilyWhippoorwill played tile 8B.
+WilyWhippoorwill could not afford any shares.
+WilyWhippoorwill replaced dead tile 3E.
+scarbinger
+scarbinger played tile 6C.
+scarbinger purchased 3 Imperial.
+TacoBobby
+TacoBobby played tile 12H.
+TacoBobby purchased 1 Festival and 2 Imperial.
+TacoBobby drew the last tile from the tile bag.
+TacoBobby replaced dead tile 9G.
+TacoBobby replaced dead tile 1F.
+VeryStableGenius
+VeryStableGenius played tile 7C.
+VeryStableGenius merged American and Worldwide.
+scarbinger received a $5000 Worldwide bonus.
+WilyWhippoorwill received a $2500 Worldwide bonus.
+WilyWhippoorwill traded 0 and sold 11 Worldwide shares.
+scarbinger traded 0 and sold 13 Worldwide shares.
+VeryStableGenius purchased 3 Imperial.
+VeryStableGenius replaced dead tile 7A.
+VeryStableGenius replaced dead tile 5B.
+afropop
+afropop played tile 1H.
+afropop could not afford any shares.
+afropop replaced dead tile 4C.
+afropop replaced dead tile 10A.
+WilyWhippoorwill
+WilyWhippoorwill played tile 4D.
+WilyWhippoorwill purchased 3 Festival.
+WilyWhippoorwill replaced dead tile 6B.
+scarbinger
+scarbinger played tile 1I.
+scarbinger purchased 3 Imperial.
+scarbinger replaced dead tile 3C.
+TacoBobby
+TacoBobby played tile 11H.
+TacoBobby merged Luxor and Tower.
+TacoBobby received a $3000 Luxor bonus.
+afropop received a $1500 Luxor bonus.
+TacoBobby traded 8 and sold 1 Luxor shares.
+VeryStableGenius traded 0 and sold 2 Luxor shares.
+afropop traded 0 and sold 8 Luxor shares.
+TacoBobby purchased 3 Imperial.
+TacoBobby replaced dead tile 9B.
+TacoBobby replaced dead tile 2D.
+VeryStableGenius
+VeryStableGenius played tile 6I.
+VeryStableGenius purchased 3 Imperial.
+VeryStableGenius replaced dead tile 9H.
+afropop
+afropop played tile 4F.
+afropop purchased 1 Festival and 1 Imperial.
+WilyWhippoorwill
+WilyWhippoorwill played tile 5D.
+WilyWhippoorwill purchased nothing.
+WilyWhippoorwill replaced dead tile 10I.
+scarbinger
+scarbinger played tile 3A.
+scarbinger purchased nothing.
+scarbinger ended the game.
+Game over.
+Global Chat
+Game Chat
