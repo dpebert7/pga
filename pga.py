@@ -6,8 +6,8 @@ import matplotlib as plt
 import pylab
 
 #Read Acquire log file
-with open('C:\\4. Github\\PGA\\log3.txt') as f:
-    raw_lines = f.read().splitlines()
+#with open('C:\\4. Github\\PGA\\log3.txt') as f:
+#    raw_lines = f.read().splitlines()
 
 
 companies = ['Luxor', 'Tower', 'Worldwide', 'Festival', 'American', 'Continental', 'Imperial']
