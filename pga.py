@@ -5,10 +5,6 @@ import pandas as pd
 import matplotlib as plt
 import pylab
 
-#Read Acquire log file
-#with open('C:\\4. Github\\PGA\\log3.txt') as f:
-#    raw_lines = f.read().splitlines()
-
 
 companies = ['Luxor', 'Tower', 'Worldwide', 'Festival', 'American', 'Continental', 'Imperial']
 
@@ -372,13 +368,6 @@ def pga(raw_lines):
             
     return( {'log':log, 'players': players, 'scoreboard':scoreboard} )
 
-
-result = pga(raw_lines)
-log = result['log']
-players = result['players']
-scoreboard = result['scoreboard']
-
-
 #print(companies)
 #print([len(current_company[x]['tiles']) for x in companies])
 #print(sum([len(current_company[x]['tiles']) for x in companies], len(unused_tiles)))
@@ -408,5 +397,14 @@ def plot_player_summary(scoreboard, players):
     for player in players:
         df2[player].drop(['Net'], axis = 1).plot(kind = 'area', title=player).set_ylim(0,yMax)
     pylab.show()
+    
+    
+#Read Acquire log file
+#with open('C:\\4. Github\\PGA\\log3.txt') as f:
+#    raw_lines = f.read().splitlines()
 
+#result = pga(raw_lines)
+#log = result['log']
+#players = result['players']
+#scoreboard = result['scoreboard']
 
